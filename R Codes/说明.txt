@@ -1,5 +1,0 @@
-被试标号特殊情况：
-201711061150 recording3 & recording_metro 地铁站视频黑屏导致
-201811260127 recording5 metro没有prs数据
-recording38\39
-recording40\41\42 看完一段急着就要走？
